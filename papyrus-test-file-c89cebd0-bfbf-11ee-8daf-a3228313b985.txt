@@ -1,0 +1,1 @@
+Simple file created by papyrus to test write-access. UUID: c89cebd0-bfbf-11ee-8daf-a3228313b985
